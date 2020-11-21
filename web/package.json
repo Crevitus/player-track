@@ -1,0 +1,27 @@
+{
+  "name": "web",
+  "version": "0.1.0",
+  "description": "PlayerTrack",
+  "main": "index.js",
+  "author": "Ben Crevis",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "next": "^10.0.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "scripts": {
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "next start"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.9",
+    "@types/react": "^17.0.0",
+    "express": "^4.17.1",
+    "http-proxy-middleware": "^1.0.6",
+    "sass": "^1.29.0",
+    "typescript": "^4.1.2"
+  }
+}
