@@ -4,11 +4,11 @@ Track leagues and play games.
 
 ## Quick Start
 
-1. Install [Docker](https://docs.docker.com/engine/installation/) 
+1. Install [Docker](https://docs.docker.com/docker-for-windows/install/) 
 
 1. Check out repo.
 
-1. docker-compose up
+1. Run `docker-compose up` in a terminal in the project.
 
 ## Viewing web app
 
